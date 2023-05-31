@@ -1,6 +1,3 @@
-import java.awt.*;
-import java.util.LinkedList;
-
 // разворот односвязного списка
 public class MyList {
     Node head;
